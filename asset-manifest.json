@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AravindHacker/3D-Cards.git/static/css/main.479c38f2.css",
+    "main.js": "/AravindHacker/3D-Cards.git/static/js/main.fc219161.js",
+    "static/js/787.d3befce1.chunk.js": "/AravindHacker/3D-Cards.git/static/js/787.d3befce1.chunk.js",
+    "index.html": "/AravindHacker/3D-Cards.git/index.html",
+    "main.479c38f2.css.map": "/AravindHacker/3D-Cards.git/static/css/main.479c38f2.css.map",
+    "main.fc219161.js.map": "/AravindHacker/3D-Cards.git/static/js/main.fc219161.js.map",
+    "787.d3befce1.chunk.js.map": "/AravindHacker/3D-Cards.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.479c38f2.css",
+    "static/js/main.fc219161.js"
+  ]
+}
